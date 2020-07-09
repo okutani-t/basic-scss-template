@@ -1,0 +1,16 @@
+// reset css
+@import '../node_modules/destyle.css';
+
+// base files
+@import 'variables';
+@import 'mixins';
+@import 'base';
+@import 'utils';
+@import 'header';
+@import 'footer';
+
+// pages
+@import 'pages/top.scss';
+// If you add about page, add it here!
+// 
+// @import 'pages/about.scss'
